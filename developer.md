@@ -49,3 +49,6 @@ Interested to learn
 Able to priortize
 -*How can a team continously improve when they having ongoing deliverables that could consume 100% of their effort*
 
+Able to plan
+- *What percentage of time is reasonable to plan some development activity*
+
