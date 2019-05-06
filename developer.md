@@ -15,6 +15,9 @@ Full stack generalist developer who can work on the front end or back end.
 Multi Language - but at least interested in javascript/C#
 - *Which languages do you like to work with and why?*
 
+Interested in Front End development
+- *What technology would you use to do a custom UI involving multiple control dials and graphically outputs*
+
 Interested in large data management issues
 - *What options are there to investigate why an application is not performing well enough after moving from development into production*
 
