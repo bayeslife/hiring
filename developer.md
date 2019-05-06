@@ -54,3 +54,6 @@ Able to plan
 
 Appreciation for change management
 -*As a developer how do can you communicate the nature of a change you are making to future developers who will consumer your library*
+
+Appreciation for standardization
+-*As a developer how can you promote standard ways of working with your colleagues*
