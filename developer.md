@@ -52,3 +52,5 @@ Able to priortize
 Able to plan
 - *What percentage of time is reasonable to plan some development activity*
 
+Appreciation for change management
+-*As a developer how do can you communicate the nature of a change you are making to future developers who will consumer your library*
